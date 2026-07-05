@@ -1,4 +1,4 @@
-# Superstore Dashboard
+# Sample-Superstore-Dashboard
 
 Interactive React dashboard built from the Sample Superstore workbook.
 

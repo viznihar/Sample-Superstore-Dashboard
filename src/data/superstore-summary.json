@@ -1,0 +1,467 @@
+{
+  "overall": {
+    "sales": 2326534.35,
+    "profit": 292296.81,
+    "quantity": 38654,
+    "orders": 5111,
+    "customers": 804,
+    "products": 1862,
+    "profitMargin": 12.56,
+    "returnOrders": 296,
+    "returnRate": 5.79
+  },
+  "yearly": [
+    {
+      "Year": 2021,
+      "Sales": 494040.21,
+      "Profit": 51684.3
+    },
+    {
+      "Year": 2022,
+      "Sales": 472993.03,
+      "Profit": 62020.97
+    },
+    {
+      "Year": 2023,
+      "Sales": 613933.58,
+      "Profit": 82665.2
+    },
+    {
+      "Year": 2024,
+      "Sales": 745567.53,
+      "Profit": 95926.35
+    }
+  ],
+  "region": [
+    {
+      "Region": "West",
+      "Sales": 739813.61,
+      "Profit": 110798.82
+    },
+    {
+      "Region": "East",
+      "Sales": 691828.17,
+      "Profit": 94883.26
+    },
+    {
+      "Region": "Central",
+      "Sales": 503170.67,
+      "Profit": 39865.31
+    },
+    {
+      "Region": "South",
+      "Sales": 391721.9,
+      "Profit": 46749.43
+    }
+  ],
+  "category": [
+    {
+      "Category": "Technology",
+      "Sales": 839893.28,
+      "Profit": 146543.38
+    },
+    {
+      "Category": "Furniture",
+      "Sales": 754747.76,
+      "Profit": 19730.0
+    },
+    {
+      "Category": "Office Supplies",
+      "Sales": 731893.31,
+      "Profit": 126023.44
+    }
+  ],
+  "topStates": [
+    {
+      "State/Province": "California",
+      "Sales": 457687.63,
+      "Profit": 76381.39
+    },
+    {
+      "State/Province": "New York",
+      "Sales": 310876.27,
+      "Profit": 74038.55
+    },
+    {
+      "State/Province": "Texas",
+      "Sales": 170188.05,
+      "Profit": -25729.36
+    },
+    {
+      "State/Province": "Washington",
+      "Sales": 138641.27,
+      "Profit": 33402.65
+    },
+    {
+      "State/Province": "Pennsylvania",
+      "Sales": 116511.91,
+      "Profit": -15559.96
+    },
+    {
+      "State/Province": "Florida",
+      "Sales": 89473.71,
+      "Profit": -3399.3
+    },
+    {
+      "State/Province": "Illinois",
+      "Sales": 80166.1,
+      "Profit": -12607.89
+    },
+    {
+      "State/Province": "Ohio",
+      "Sales": 78258.14,
+      "Profit": -16971.38
+    },
+    {
+      "State/Province": "Michigan",
+      "Sales": 76269.61,
+      "Profit": 24463.19
+    },
+    {
+      "State/Province": "Virginia",
+      "Sales": 70636.72,
+      "Profit": 18597.95
+    }
+  ],
+  "subCategoryProfit": [
+    {
+      "subCategory": "Tables",
+      "Profit": -17753.21
+    },
+    {
+      "subCategory": "Bookcases",
+      "Profit": -3632.07
+    },
+    {
+      "subCategory": "Supplies",
+      "Profit": -1171.39
+    },
+    {
+      "subCategory": "Fasteners",
+      "Profit": 2428.64
+    },
+    {
+      "subCategory": "Machines",
+      "Profit": 3461.98
+    },
+    {
+      "subCategory": "Labels",
+      "Profit": 5572.78
+    },
+    {
+      "subCategory": "Art",
+      "Profit": 6653.2
+    },
+    {
+      "subCategory": "Envelopes",
+      "Profit": 6988.02
+    },
+    {
+      "subCategory": "Furnishings",
+      "Profit": 13891.74
+    },
+    {
+      "subCategory": "Appliances",
+      "Profit": 18329.48
+    },
+    {
+      "subCategory": "Storage",
+      "Profit": 21285.11
+    },
+    {
+      "subCategory": "Chairs",
+      "Profit": 27223.53
+    },
+    {
+      "subCategory": "Binders",
+      "Profit": 31426.1
+    },
+    {
+      "subCategory": "Paper",
+      "Profit": 34511.51
+    },
+    {
+      "subCategory": "Accessories",
+      "Profit": 41936.64
+    },
+    {
+      "subCategory": "Phones",
+      "Profit": 45050.83
+    },
+    {
+      "subCategory": "Copiers",
+      "Profit": 56093.94
+    }
+  ],
+  "shipMode": [
+    {
+      "Ship Mode": "Standard Class",
+      "Sales": 1378840.55,
+      "Profit": 168161.21
+    },
+    {
+      "Ship Mode": "Second Class",
+      "Sales": 466671.11,
+      "Profit": 58962.13
+    },
+    {
+      "Ship Mode": "First Class",
+      "Sales": 351750.74,
+      "Profit": 49012.72
+    },
+    {
+      "Ship Mode": "Same Day",
+      "Sales": 129271.96,
+      "Profit": 16160.75
+    }
+  ],
+  "monthlyTrend": [
+    {
+      "period": "2021-01",
+      "Sales": 14518.06,
+      "Profit": 2539.39
+    },
+    {
+      "period": "2021-02",
+      "Sales": 4519.89,
+      "Profit": 862.31
+    },
+    {
+      "period": "2021-03",
+      "Sales": 56933.91,
+      "Profit": 693.45
+    },
+    {
+      "period": "2021-04",
+      "Sales": 28295.34,
+      "Profit": 3488.84
+    },
+    {
+      "period": "2021-05",
+      "Sales": 26319.77,
+      "Profit": 3196.39
+    },
+    {
+      "period": "2021-06",
+      "Sales": 34669.48,
+      "Profit": 4999.76
+    },
+    {
+      "period": "2021-07",
+      "Sales": 33946.39,
+      "Profit": -841.48
+    },
+    {
+      "period": "2021-08",
+      "Sales": 28918.34,
+      "Profit": 5765.22
+    },
+    {
+      "period": "2021-09",
+      "Sales": 82670.43,
+      "Profit": 8593.63
+    },
+    {
+      "period": "2021-10",
+      "Sales": 32413.34,
+      "Profit": 3469.17
+    },
+    {
+      "period": "2021-11",
+      "Sales": 78826.96,
+      "Profit": 9362.96
+    },
+    {
+      "period": "2021-12",
+      "Sales": 72008.31,
+      "Profit": 9554.66
+    },
+    {
+      "period": "2022-01",
+      "Sales": 18461.92,
+      "Profit": -3189.8
+    },
+    {
+      "period": "2022-02",
+      "Sales": 11951.41,
+      "Profit": 2813.85
+    },
+    {
+      "period": "2022-03",
+      "Sales": 39978.63,
+      "Profit": 9930.61
+    },
+    {
+      "period": "2022-04",
+      "Sales": 34195.21,
+      "Profit": 4187.5
+    },
+    {
+      "period": "2022-05",
+      "Sales": 30246.95,
+      "Profit": 4677.14
+    },
+    {
+      "period": "2022-06",
+      "Sales": 24797.29,
+      "Profit": 3335.56
+    },
+    {
+      "period": "2022-07",
+      "Sales": 28765.32,
+      "Profit": 3288.65
+    },
+    {
+      "period": "2022-08",
+      "Sales": 37057.0,
+      "Profit": 5371.63
+    },
+    {
+      "period": "2022-09",
+      "Sales": 64627.05,
+      "Profit": 8220.03
+    },
+    {
+      "period": "2022-10",
+      "Sales": 31407.13,
+      "Profit": 2817.97
+    },
+    {
+      "period": "2022-11",
+      "Sales": 75972.56,
+      "Profit": 12474.79
+    },
+    {
+      "period": "2022-12",
+      "Sales": 75532.56,
+      "Profit": 8093.06
+    },
+    {
+      "period": "2023-01",
+      "Sales": 18830.33,
+      "Profit": 2916.02
+    },
+    {
+      "period": "2023-02",
+      "Sales": 22978.82,
+      "Profit": 5004.58
+    },
+    {
+      "period": "2023-03",
+      "Sales": 53031.07,
+      "Profit": 3707.89
+    },
+    {
+      "period": "2023-04",
+      "Sales": 38829.16,
+      "Profit": 2991.66
+    },
+    {
+      "period": "2023-05",
+      "Sales": 57042.84,
+      "Profit": 8676.7
+    },
+    {
+      "period": "2023-06",
+      "Sales": 40937.15,
+      "Profit": 4926.32
+    },
+    {
+      "period": "2023-07",
+      "Sales": 40300.5,
+      "Profit": 4559.88
+    },
+    {
+      "period": "2023-08",
+      "Sales": 31716.81,
+      "Profit": 2317.5
+    },
+    {
+      "period": "2023-09",
+      "Sales": 73521.66,
+      "Profit": 9370.1
+    },
+    {
+      "period": "2023-10",
+      "Sales": 59831.0,
+      "Profit": 16256.84
+    },
+    {
+      "period": "2023-11",
+      "Sales": 79411.97,
+      "Profit": 4011.41
+    },
+    {
+      "period": "2023-12",
+      "Sales": 97502.28,
+      "Profit": 17926.3
+    },
+    {
+      "period": "2024-01",
+      "Sales": 44259.21,
+      "Profit": 7231.64
+    },
+    {
+      "period": "2024-02",
+      "Sales": 20301.13,
+      "Profit": 1613.87
+    },
+    {
+      "period": "2024-03",
+      "Sales": 60728.48,
+      "Profit": 15013.09
+    },
+    {
+      "period": "2024-04",
+      "Sales": 36779.04,
+      "Profit": 957.53
+    },
+    {
+      "period": "2024-05",
+      "Sales": 45155.48,
+      "Profit": 6299.81
+    },
+    {
+      "period": "2024-06",
+      "Sales": 53056.08,
+      "Profit": 8246.57
+    },
+    {
+      "period": "2024-07",
+      "Sales": 45989.5,
+      "Profit": 7006.5
+    },
+    {
+      "period": "2024-08",
+      "Sales": 64129.76,
+      "Profit": 9488.07
+    },
+    {
+      "period": "2024-09",
+      "Sales": 88064.53,
+      "Profit": 11050.8
+    },
+    {
+      "period": "2024-10",
+      "Sales": 83474.78,
+      "Profit": 10670.53
+    },
+    {
+      "period": "2024-11",
+      "Sales": 118454.5,
+      "Profit": 9692.1
+    },
+    {
+      "period": "2024-12",
+      "Sales": 85175.03,
+      "Profit": 8655.83
+    }
+  ],
+  "insights": [
+    "West leads both sales and profit, with East close behind in sales.",
+    "Technology is the strongest category on both revenue and profit.",
+    "Tables and Bookcases are the biggest profit drag points.",
+    "California and New York anchor the largest sales volumes.",
+    "Standard Class dominates shipping mix and drives most orders."
+  ]
+}

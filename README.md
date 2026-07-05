@@ -25,4 +25,4 @@ pnpm install
 pnpm dev
 ```
 
-Then open the local URL shown by Vite.
+Then open the local URL shown by Vite. http://127.0.0.1:5173/
